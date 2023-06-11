@@ -9,4 +9,5 @@
 Galaxy is a fully responsive 3D Solar System website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 
+  <a href="https://mohitpandey0.github.io/World.github.io/"><strong>➥ Live Demo</strong></a>
 </div>
