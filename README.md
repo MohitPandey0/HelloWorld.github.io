@@ -10,10 +10,3 @@ Galaxy is a fully responsive 3D Solar System website, <br />Responsive for all d
 
 
 </div>
-
-<br />
-
-### Demo Screeshots
-
-![Galaxy Demo]([image\1.jpg](https://github.com/MohitPandey0/HelloWorld.github.io/blob/main/image/1.jpg?raw=true) "Desktop Demo")
-![Galaxy Demo](image\2.jpg "Desktop Demo")
